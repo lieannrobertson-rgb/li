@@ -1,0 +1,7 @@
+{
+  "name": "NekoButler",
+  "description": "A cute, comprehensive cat management application for tracking profile, growth, food, and health.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
